@@ -7,5 +7,47 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "alumnos":[
+      {
+        "Id": "1",
+        "Ncontrol": 12861222,
+        "Nombre": "Jonathan",
+        "Appaterno": "Jimenez",
+        "Apmaterno": "Perez",
+        "Carrera": "Informatica"
+      },
+      {
+        "Id": "2",
+        "Ncontrol": 12861223,
+        "Nombre": "Jaime",
+        "Appaterno": "Lopez",
+        "Apmaterno": "Tovilla",
+        "Carrera": "Informatica"
+      },
+      {
+        "Id": "3",
+        "Ncontrol": 12861224,
+        "Nombre": "Jose Luis",
+        "Appaterno": "Garcia",
+        "Apmaterno": "Mendez",
+        "Carrera": "Informatica"
+      },
+      {
+        "Id": "4",
+        "Ncontrol": 12861225,
+        "Nombre": "Manuel",
+        "Appaterno": "Ortiz",
+        "Apmaterno": "Tempo",
+        "Carrera": "Informatica"
+      },
+      {
+        "Id": "5",
+        "Ncontrol": 12861226,
+        "Nombre": "Elizabeth",
+        "Appaterno": "Gonzalez",
+        "Apmaterno": "Villareal",
+        "Carrera": "Informatica"
+      }
+    ]
 }
