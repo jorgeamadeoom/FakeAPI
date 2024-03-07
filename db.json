@@ -1,10 +1,4 @@
-{   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-    "alumnos":[
+{       "alumnos":[
       {
         "Id": "1",
         "Ncontrol": 12861222,
